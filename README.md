@@ -1,4 +1,4 @@
-# 🛡️ SysAdmin Toolkit — ASIR Practices
+# 🛡️ SysAdmin Toolkit — ASIR
 
 Kit de herramientas para administradores de sistemas en Python. Incluye un auditor de seguridad SSH, gestión de inventario de red con Excel, geolocalización de IPs amenazantes y un menú CLI interactivo.
 
@@ -138,5 +138,5 @@ python -m pytest test_toolkit.py -v
 
 ## 👤 Autor
 
-Alejandro — Ciclo Formativo de Grado Superior ASIR  
-Prácticas en Corner Studio
+Alejandro Quintanilla Cobo — Ciclo Formativo de Grado Superior ASIR  
+Prácticas en Corner Studios
